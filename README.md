@@ -1,6 +1,5 @@
 # FraudDetection-Financial-Model
 Machine learning model to predict fraudulent transactions for a financial company using transaction data.
-# Fraud Detection Model
 
 ## Project Overview
 This project focuses on building a machine learning model to detect fraudulent activities within transaction data.  
@@ -8,7 +7,7 @@ The objective is to accurately differentiate between legitimate and fraudulent t
 
 This notebook covers:
 - Data preprocessing
-- Model building using Logistic Regression
+- Model building using XGB/Random Forest/Decision Tree/Logistic Regression
 - Model evaluation using Accuracy, Confusion Matrix, Classification Report, and ROC Curve
 
 ## Repository Structure
