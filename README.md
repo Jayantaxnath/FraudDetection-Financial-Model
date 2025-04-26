@@ -14,18 +14,6 @@ This notebook covers:
 | File | Description |
 |:----|:------------|
 | `fraud_detection_model.ipynb` | Jupyter Notebook containing all code for preprocessing, modeling, and evaluation. |
-
-## Getting Started
-
-### Prerequisites
-- Python 3.x
-- Jupyter Notebook
-- Libraries:
-  - pandas
-  - numpy
-  - matplotlib
-  - seaborn
-  - scikit-learn
  
   ## Project Workflow
 - **Data Loading**: Import and inspect the dataset.
@@ -35,18 +23,15 @@ This notebook covers:
 - **Model Evaluation**: Analyze performance metrics to validate the model.
 
 ## Technology Stack
-- Python
-- Jupyter Notebook
-- Pandas
-- NumPy
-- Seaborn
-- Matplotlib
-- Scikit-learn
+- Python  Jupyter  Notebook  Pandas  NumPy  Seaborn  Matplotlib  Scikit-learn
 
 ## Results
-- Achieved on an average [95]%+ accuracy.
+- Achieved more than 95%+ accuracy for all the models with different the fraud:non_fraud ratios.
 - Analyzed model performance through confusion matrix, classification report, and ROC-AUC curve.
 - Identified key factors affecting fraudulent activity detection.
+
+![xgb model](https://github.com/user-attachments/assets/90d87d73-7cdf-4d0f-8e69-4bbdede391f3)
+
 
 ## Contact
 For any queries or collaboration opportunities, feel free to reach out:
