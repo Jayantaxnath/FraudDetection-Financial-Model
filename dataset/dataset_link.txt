@@ -1,3 +1,4 @@
 If you want to download the dataset then you can download from google drive or kaggle.
 
-  Google Drive: https://drive.usercontent.google.com/download?id=1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV&export=download&authuser=0
+Google Drive: https://drive.usercontent.google.com/download?id=1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV&export=download&authuser=0
+Kaggle Link: https://www.kaggle.com/datasets/ealaxi/paysim1
