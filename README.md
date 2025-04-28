@@ -1,7 +1,8 @@
 # FraudDetection-Financial-Model
 Machine learning model to predict fraudulent transactions for a financial company using transaction data.
 
-Dataset used in this project: [Fraud.csv Datset Link](https://drive.usercontent.google.com/download?id=1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV&export=download&authuser=0)
+Dataset used in this project: [Google drive Link](https://drive.usercontent.google.com/download?id=1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV&export=download&authuser=0)
+                              [Kaggle Link](https://www.kaggle.com/datasets/ealaxi/paysim1)
 
 ## Project Overview
 This project focuses on building a machine learning model to detect fraudulent activities within transaction data.  
